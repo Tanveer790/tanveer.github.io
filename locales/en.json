@@ -1,0 +1,104 @@
+{
+  "language": {
+    "label": "Language"
+  },
+  "nav": {
+    "experience": "Experience",
+    "skills": "Skills",
+    "certifications": "Certifications",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "status": {
+    "openToWork": "Open to work"
+  },
+  "hero": {
+    "status": "System status: operational",
+    "title": "Keeping infrastructure <span class=\"accent\">online</span>, secure, and monitored.",
+    "role": "IT Support Technician <span class=\"arrow\">→</span> Network Security / SOC Analyst",
+    "summary": "IT professional with hands-on experience supporting users, servers, networks, Microsoft 365, CCTV systems and business operations across Saudi Arabia and Pakistan.",
+    "access": "Access: granted"
+  },
+  "buttons": {
+    "email": "Email me",
+    "whatsapp": "WhatsApp",
+    "linkedin": "LinkedIn",
+    "cv": "Download CV"
+  },
+  "stats": {
+    "years": "Years in IT / infrastructure",
+    "endpoints": "Endpoints supported",
+    "cameras": "IP cameras managed",
+    "sites": "Branch sites in Jeddah"
+  },
+  "experience": {
+    "eyebrow": "Career / traceroute",
+    "title": "Professional experience",
+    "job1": {
+      "title": "IT Support Technician",
+      "company": "Hussam Group Trading Company — Jeddah, Saudi Arabia",
+      "dates": "May 2026 — Present",
+      "b1": "Support employees and daily IT operations across multiple restaurant branches.",
+      "b2": "Manage Microsoft 365 services, user accounts, shared files and access permissions.",
+      "b3": "Maintain Hikvision and Dahua CCTV systems, remote access and video backups.",
+      "b4": "Administer BioTime attendance devices and prepare attendance reports for HR."
+    },
+    "job2": {
+      "title": "IT & Cloud Specialist",
+      "company": "Matrix Software Company — Jeddah, Saudi Arabia",
+      "dates": "2025",
+      "b1": "Supported Windows Server, VMware and business applications.",
+      "b2": "Worked with Active Directory, Group Policy, DNS, DHCP and TCP/IP services.",
+      "b3": "Assisted with backups, troubleshooting and system administration.",
+      "b4": "Used PowerShell and technical documentation for routine support work."
+    },
+    "job3": {
+      "title": "IT Support Specialist",
+      "company": "Amjaad General Contracting — Jeddah, Saudi Arabia",
+      "dates": "Nov 2024 — Mar 2025",
+      "b1": "Provided support for computers, printers, software and network issues.",
+      "b2": "Assisted with server monitoring, maintenance and security checks.",
+      "b3": "Troubleshot LAN, WAN and end-user connectivity problems."
+    },
+    "job4": {
+      "title": "IT Assistant Manager",
+      "company": "China Gezhouba Group Corporation — Pakistan",
+      "dates": "Feb 2022 — Aug 2024",
+      "b1": "Delivered technical support for more than 100 staff members.",
+      "b2": "Supported switches, routers, firewalls and office network infrastructure.",
+      "b3": "Helped users follow security and data-protection best practices.",
+      "b4": "Assisted with disaster recovery planning and infrastructure improvements."
+    }
+  },
+  "skills": {
+    "eyebrow": "Service monitor",
+    "title": "Technical skills",
+    "servers": "Cloud & servers",
+    "networking": "Networking",
+    "support": "IT support",
+    "automation": "Automation",
+    "security": "Security",
+    "note": "<span class=\"amber-text\">[IN PROGRESS]</span> Building a practical home lab with Windows Server, Active Directory, networking and SIEM exercises."
+  },
+  "certs": {
+    "eyebrow": "Verified learning",
+    "title": "Certifications & training"
+  },
+  "education": {
+    "eyebrow": "Foundation",
+    "title": "Education",
+    "degree": "Bachelor of Science in Information Technology",
+    "school": "The University of Agriculture, Peshawar",
+    "dates": "Aug 2020 — Aug 2024"
+  },
+  "contact": {
+    "eyebrow": "Ready to connect",
+    "title": "Let’s discuss your next IT hire.",
+    "summary": "Based in Jeddah and open to IT support, networking and security-focused opportunities across Saudi Arabia.",
+    "location": "Jeddah, Saudi Arabia",
+    "languages": "English · Urdu · Arabic"
+  },
+  "footer": {
+    "text": "Built for reliability, not just appearance."
+  }
+}

@@ -1,0 +1,62 @@
+html[dir="rtl"] body{
+  font-family:'Noto Naskh Arabic','Inter',sans-serif;
+  text-align:right
+}
+
+html[dir="rtl"] .eyebrow,
+html[dir="rtl"] .role,
+html[dir="rtl"] .btn,
+html[dir="rtl"] .status-pill,
+html[dir="rtl"] .language-switcher,
+html[dir="rtl"] .term-body,
+html[dir="rtl"] .term-bar,
+html[dir="rtl"] .hop-id,
+html[dir="rtl"] .dates,
+html[dir="rtl"] .skill-panel h4,
+html[dir="rtl"] .learning-note,
+html[dir="rtl"] .meta-row,
+html[dir="rtl"] footer{
+  font-family:'Noto Naskh Arabic','IBM Plex Mono',sans-serif
+}
+
+html[dir="rtl"] .trace{
+  padding-left:0;
+  padding-right:34px
+}
+
+html[dir="rtl"] .trace::before{
+  left:auto;
+  right:9px
+}
+
+html[dir="rtl"] .hop::before{
+  left:auto;
+  right:-34px
+}
+
+html[dir="rtl"] .hop-card li{
+  padding-left:0;
+  padding-right:18px
+}
+
+html[dir="rtl"] .hop-card li::before{
+  left:auto;
+  right:0;
+  content:'‹'
+}
+
+html[dir="rtl"] .learning-note{
+  border-left:0;
+  padding-left:0;
+  border-right:2px solid var(--amber);
+  padding-right:14px
+}
+
+html[dir="rtl"] .term-bar .lbl{
+  margin-left:0;
+  margin-right:8px
+}
+
+html[dir="rtl"] .hero h1{
+  letter-spacing:0
+}
